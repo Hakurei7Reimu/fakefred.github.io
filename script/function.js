@@ -15,9 +15,13 @@ document.write("y=");
 document.write(k);
 document.write("x+");
 document.write(b);
-}else{
+}else if(b<0){
 document.write("y=");
 document.write(k);
 document.write("x");
 document.write(b);
+}else{
+document.write("y=");
+document.write(k);
+document.write("x");
 }
