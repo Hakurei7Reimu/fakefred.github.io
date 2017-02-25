@@ -1,14 +1,16 @@
-for (n=0; n<=32; n++){
-	document.write(n + "<br/>");
+function plusOneSecond(){
+	var elem = document.getElementById("life");
+	var second = elem.innerHTML;
+	//alert (second);
+	second++;
+	elem.innerHTML=second
 }
-alert("Lines written!");
+setInterval(plusOneSecond,1000);
 
-var feedback = prompt("How many lines did JavaScript write?");
-
-if (feedback=="32"){
-	alert("Right!");
-}else if (feedback=="fuck you"){
-	alert("Yeah, fuck you too");
-}else{
-	alert("Let's reveal the answer!");
+function safeMode(){
+	var links = document.getElementsByTagName("a");
+	for(var i = 0; i < links.length; i++){
+		links[i].href = "";
+	}
+	alert("安全模式开启，所有链接失效");
 }
