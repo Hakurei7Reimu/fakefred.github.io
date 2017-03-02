@@ -19,7 +19,7 @@ if(delta>0){
 	print("x2=");
 	print(x2);
 }else if(delta<0){
-	print("原方程无实数根！");
+	print("鍘熸柟绋嬫棤瀹炴暟鏍癸紒");
 }else{
 	var x = -b/(2*a);
 	print("x1=x2=");
