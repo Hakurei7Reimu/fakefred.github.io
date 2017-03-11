@@ -17,8 +17,24 @@
 	font-weight: bolder;
 }
 
+.intro {
+	/*empty*/
+}
+
 .price {
 	font-size: 36px;
 	color: red;
 	font-family: Verdana, sans-serif;
+	font-weight: bolder;
+}
+
+.stock {
+	font-size: 32px;
+	color:brown;
+	font-weight: bold;
+}
+
+#footnote {
+	font-weight: lighter;
+	color: gray;
 }
