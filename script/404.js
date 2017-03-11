@@ -25,7 +25,7 @@ switch(rand){
 		elem404.innerHTML="不要问我404是什么意思，它其实相当于233";
 	break;
 	case 7:
-		elem404.innerHTML="";
+		elem404.innerHTML="这个网站正在和boy♂next♂door玩耍，不鸟你";
 	break;
 	case 8:
 		elem404.innerHTML="";
