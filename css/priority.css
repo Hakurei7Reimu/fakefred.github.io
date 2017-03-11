@@ -1,13 +1,13 @@
-#high {
+.high {
 	font-weight: bolder;
 	font-size:larger;
 }
 
-#medium{
+.medium{
 	font-weight: bold;
 	font-size: large;
 }
 
-#low{
+.low{
 	
 }
