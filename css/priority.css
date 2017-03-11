@@ -3,11 +3,22 @@
 	font-size:larger;
 }
 
-.medium{
+.medium {
 	font-weight: bold;
 	font-size: large;
 }
 
-.low{
-	
+.low {
+	/*empty*/
+}
+
+.product {
+	font-size: 48px;
+	font-weight: bolder;
+}
+
+.price {
+	font-size: 36px;
+	color: red;
+	font-family: Verdana, sans-serif;
 }
