@@ -38,3 +38,23 @@
 	font-weight: lighter;
 	color: gray;
 }
+
+#p1 {
+	width: 256px;
+	height: 144px;
+}
+
+#p2 {
+	width: 238px;
+	height: 144px;
+}
+
+#p3 {
+	width: 202px;
+	height: 42px;
+}
+
+#p4 {
+	width: 234px;
+	height: 113px;
+}
