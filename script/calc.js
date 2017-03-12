@@ -1,6 +1,6 @@
 function plus(){
-	var a = prompt("数值1=");
-	var b = prompt("数值2=");
+	var a = prompt("眶酤1=");
+	var b = prompt("眶酤2=");
 	for(var r = 0; r<b; r++){
 		a++;
 	}
@@ -8,19 +8,19 @@ function plus(){
 }
 
 function minus(){
-	var a = prompt("数值1=");
-	var b = prompt("数值2=");
+	var a = prompt("眶酤1=");
+	var b = prompt("眶酤2=");
 	alert(a-b);
 }
 
 function multiply(){
-	var a = prompt("数值1=");
-	var b = prompt("数值2=");
+	var a = prompt("眶酤1=");
+	var b = prompt("眶酤2=");
 	alert(a*b);
 }
 
 function divide(){
-	var a = prompt("数值1=");
-	var b = prompt("数值2=");
+	var a = prompt("眶酤1=");
+	var b = prompt("眶酤2=");
 	alert(a/b);
 }
