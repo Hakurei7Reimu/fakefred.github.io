@@ -12,6 +12,11 @@ body {
 	height: 215px;
 }
 
+#pipitaxi {
+	width: 200px;
+	height: 200px;
+}
+
 #larger-text {
 	font-size: larger;
 }
