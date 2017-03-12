@@ -1,6 +1,14 @@
 # fakefred.github.io
 GitHub page
 
+![fakefred](https://raw.githubusercontent.com/fakefred/fakefred.github.io/master/readme/fakefred.png)
+
+![useful](https://raw.githubusercontent.com/fakefred/fakefred.github.io/master/readme/useful.jpg)
+
+![colorful](https://raw.githubusercontent.com/fakefred/fakefred.github.io/master/readme/colorful.jpg)
+
+![wonderful](https://raw.githubusercontent.com/fakefred/fakefred.github.io/master/readme/wonderful.jpg)
+
 ## 这是一个神奇的网站。
 我建立它的初衷，是为了练习HTML。后来，我发现我有许多图片要与大家分享，于是它就变成了一堆图片。
 
