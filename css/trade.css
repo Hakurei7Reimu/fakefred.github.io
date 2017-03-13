@@ -40,21 +40,25 @@
 }
 
 #p1 {
-	width: 256px;
-	height: 144px;
+	width: 512px;
+	height: 288px;
 }
 
 #p2 {
-	width: 238px;
-	height: 144px;
+	width: 476px;
+	height: 288px;
 }
 
 #p3 {
-	width: 202px;
-	height: 42px;
+	width: 404px;
+	height: 84px;
 }
 
 #p4 {
-	width: 234px;
-	height: 113px;
+	width: 468px;
+	height: 226px;
+}
+
+.gray-text {
+	color: gray;
 }
