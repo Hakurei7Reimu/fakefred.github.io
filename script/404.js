@@ -28,7 +28,7 @@ switch(rand){
 		elem404.innerHTML="这个网站正在和boy♂next♂door玩耍，不鸟你<br/>试试<a href=\"https://t.me/fakefred\">LINK</a>";
 	break;
 	case 8:
-		elem404.innerHTML="此网站水表坏了，正在抢修";
+		elem404.innerHTML="此网站水表坏了，正在抢修<br/>试试<a href=\"atm.html\">LINK</a>";
 	break;
 	case 9:
 		elem404.innerHTML="根据相关法律法规，本内容暂时不予显示";
